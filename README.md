@@ -1,4 +1,5 @@
 # OrthogonalWorld
-Minecraft Bukkit server plugin
-Players only can move orthogonal area.
-直角にしか移動できなくなるプラグイン。
+直角にしか移動できなくなるBukkkitプラグイン / Prohibit diagonal movement.
+ Players only can move orthogonal.
+
+Under the MIT license.

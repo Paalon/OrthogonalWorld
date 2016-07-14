@@ -1,3 +1,11 @@
+/*
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Paalon
+
+*/
+
 package com.github.paalon.orthogonalworld;
 
 import org.bukkit.plugin.java.JavaPlugin;
